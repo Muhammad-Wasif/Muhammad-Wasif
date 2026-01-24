@@ -1,21 +1,36 @@
 <div align="center">
 
-<!-- Header with Typing Animation (User Requirement) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=ℌ𝔦%2C+𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡+𝔚𝔞𝔰𝔦𝔣+ℌ𝔢𝔯𝔢.;𝔘𝔫𝔦𝔳𝔢𝔯𝔰𝔦𝔱𝔶+𝔬𝔣+𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯𝔦𝔫𝔤+%26+𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶%2C+𝔏𝔞𝔥𝔬𝔯𝔢.;ℭ𝔬𝔣𝔣𝔢𝔢+𝔦𝔫+𝔥𝔞𝔫𝔡%2C+𝔩𝔬𝔤𝔦𝔠+𝔦𝔫+𝔪𝔦𝔫𝔡%2C+𝔠𝔬𝔡𝔢+𝔦𝔫+𝔪𝔬𝔱𝔦𝔬𝔫." alt="Typing SVG" />
-</a>
+<!-- SECTION 1: Arabic Header -->
+<img src="./header.svg" width="100%" alt="Bismillah" />
 
-<!-- Sub-header Info (Matching Image Style) -->
+<br><br>
+
+<!-- SECTION 2: Animated Skills & Stats -->
+<img src="./skills_animation.svg" width="100%" alt="Animated Skills" />
+
+<br>
+
+<!-- Stats Buttons (Footer of Section 2) -->
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00FF00" alt="Followers" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FF00" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=00FF00" alt="Total Stars" />
+  </a>
+</p>
+
+<br><br>
+
+<!-- SECTION 3: About Me -->
+<h1>👨‍💻 About Me</h1>
 <p>
   🌍 Based in Lahore, Pakistan | 💡 Passionate about Data Science & AI
 </p>
 
-<!-- Roles (Matching Image Style) -->
-<p>
-  <i>Data Scientist | Machine Learning | Web Developer | Python Enthusiast</i>
-</p>
-
-<!-- Bio (Matching Image Style) -->
 <p align="left">
   Welcome to my GitHub profile! I'm a passionate Data Science student with a love for uncovering insights from data and building intelligent solutions. I enjoy working with Python, Machine Learning models, and Web Technologies, and I'm always eager to learn and explore new tools and frameworks.
 </p>
