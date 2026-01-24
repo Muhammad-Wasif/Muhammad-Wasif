@@ -26,10 +26,40 @@
 
 ### 🛠 Technologies & Tools
 
-<!-- Icons (Matching Image Style using skillicons.dev) -->
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,django,git,github,vscode,mysql,pandas,pytorch,tensorflow" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Technologies</b>
+    </td>
+    <td align="center" width="50%">
+      <b>Tools</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Languages & Frameworks -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs" />
+      </a>
+      <br><br>
+      <!-- Data Science Libraries -->
+      <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+    </td>
+    <td align="center">
+      <!-- Dev Tools -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+      </a>
+      <br><br>
+      <!-- Other Tools -->
+      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Office_2021-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <hr>
 
