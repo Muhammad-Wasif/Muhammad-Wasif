@@ -2,7 +2,7 @@
 
 <!-- Header with Typing Animation (User Requirement) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Hi%2C+Muhammad+Wasif+Here.;University+of+Engineering+%26+Technology%2C+Lahore.;Coffee+in+hand%2C+logic+in+mind%2C+code+in+motion." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Hi%2C+𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡 +Wasif+Here.;University+of+Engineering+%26+Technology%2C+Lahore.;Coffee+in+hand%2C+logic+in+mind%2C+code+in+motion." alt="Typing SVG" />
 </a>
 
 <!-- Sub-header Info (Matching Image Style) -->
