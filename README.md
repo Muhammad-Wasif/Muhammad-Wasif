@@ -1,24 +1,59 @@
 <div align="center">
 
-<!-- Header with Typing Animation (User Requirement) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=ℌ𝔦%2C+𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡+𝔚𝔞𝔰𝔦𝔣+ℌ𝔢𝔯𝔢.;𝔘𝔫𝔦𝔳𝔢𝔯𝔰𝔦𝔱𝔶+𝔬𝔣+𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯𝔦𝔫𝔤+%26+𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶%2C+𝔏𝔞𝔥𝔬𝔯𝔢.;ℭ𝔬𝔣𝔣𝔢𝔢+𝔦𝔫+𝔥𝔞𝔫𝔡%2C+𝔩𝔬𝔤𝔦𝔠+𝔦𝔫+𝔪𝔦𝔫𝔡%2C+𝔠𝔬𝔡𝔢+𝔦𝔫+𝔪𝔬𝔱𝔦𝔬𝔫." alt="Typing SVG" />
-</a>
+<!-- Animated Header: Bike moves left->right, skills appear sequentially -->
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background transparent -->
+  <rect width="100%" height="100%" fill="transparent" />
 
-<!-- Sub-header Info (Matching Image Style) -->
+  <!-- Bike Image -->
+  <image href="https://lh3.googleusercontent.com/proxy/1LmTHbiNchSyG067gXYIg_48hgKnGK1PWRPj_0d6AwkKeQAqcja_EapLO-6KaHOOPb0IYGphC3HErKP29FbzO52347K_C-T-p0nSHY_1XMItAylfe_zj784" width="80" height="80">
+    <animate attributeName="x" from="-100" to="920" dur="8s" repeatCount="indefinite" />
+  </image>
+
+  <!-- Skills Text (letter-by-letter using <tspan> with timed begin) -->
+  <text x="50%" y="90" font-size="28" fill="#00FF00" font-family="Fira Code" text-anchor="middle">
+    <!-- Data Scientist -->
+    <tspan> </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;1" begin="0s" dur="0.8s" fill="freeze"/>
+      Data Scientist
+    </tspan>
+    <!-- Web Developer -->
+    <tspan>
+      <animate attributeName="opacity" values="0;1" begin="2s" dur="0.8s" fill="freeze"/>
+      Web Developer
+    </tspan>
+    <!-- Generative AI -->
+    <tspan>
+      <animate attributeName="opacity" values="0;1" begin="4s" dur="0.8s" fill="freeze"/>
+      Generative AI
+    </tspan>
+    <!-- Python Enthusiast -->
+    <tspan>
+      <animate attributeName="opacity" values="0;1" begin="6s" dur="0.8s" fill="freeze"/>
+      Python Enthusiast
+    </tspan>
+  </text>
+</svg>
+
+<!-- Sub-header -->
 <p>
   🌍 Based in Lahore, Pakistan | 💡 Passionate about Data Science & AI
 </p>
 
-<!-- Roles (Matching Image Style) -->
-<p>
-  <i>Data Scientist | Machine Learning | Web Developer | Python Enthusiast</i>
-</p>
-
-<!-- Bio (Matching Image Style) -->
-<p align="left">
-  Welcome to my GitHub profile! I'm a passionate Data Science student with a love for uncovering insights from data and building intelligent solutions. I enjoy working with Python, Machine Learning models, and Web Technologies, and I'm always eager to learn and explore new tools and frameworks.
-</p>
+<!-- ASCII Art / Fun Graphic -->
+<pre>
+⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⢔⠶⢖⡠⠤⡀
+⢎⠀⠀⠀⠉⠐⠂⣤⣄⣀⠀⠀⠀⠀⣀⠤⡒⠉⠮⠀⡈⠭⠒⠒⠒⡶
+⠀⠉⠢⢄⠀⡔⠉⣑⡤⠄⡚⠃⠒⠩⡮⠅⡉⠅⠂⠁⠀⠀⠀⠀⠠⠁
+⠀⠀⣀⠀⠉⠻⢅⡮⠀⠄⣊⠤⣂⠥⠂⠁⠀⠀⠀⠀⠀⢀⡠⠐⠀⠀
+⠀⠀⡄⠈⢂⢤⠚⡋⣒⠭⠒⠉⠀⠀⠀⠀⠀⣀⣤⠐⠈⠁⠀⠀⠀⠀
+⢰⡒⠒⠒⣡⡨⠖⠉⠀⠀⠀⢀⡀⠤⢔⢸⣋⣙⠷⠵⣄⠀⠀⠀⠀⠀
+⠀⠈⠙⠯⠥⢤⡀⡔⠒⠂⠉⠀⠀⠀⠀⠉⠢⢗⠒⢁⡈⠆⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢠⣠⠀⠀⣠⠀⡀⠠⡤⣤⠄⠀⠀⠀⠀⠀⠀⠀⠀
+</pre>
 
 </div>
 
@@ -28,32 +63,24 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>Technologies</b>
-    </td>
-    <td align="center" width="50%">
-      <b>Tools</b>
-    </td>
+    <td align="center" width="50%"><b>Technologies</b></td>
+    <td align="center" width="50%"><b>Tools</b></td>
   </tr>
   <tr>
     <td align="center">
-      <!-- Row 1: Languages & Frameworks -->
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs" />
       </a>
       <br><br>
-      <!-- Row 2: Data Science Libraries (User Specified) -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 4px;" />
     </td>
     <td align="center">
-      <!-- Row 1: Dev Tools -->
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,git,github" />
       </a>
       <br><br>
-      <!-- Row 2: Other Tools (User Specified) -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Office-2021-logo.png/480px-Office-2021-logo.png" height="40" alt="Microsoft Office 2021" style="margin: 4px;" />
@@ -88,7 +115,6 @@
 
 <hr>
 
-<!-- Code Snippet (Matching Image Style) -->
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -105,27 +131,3 @@ class DataScientist:
 
 me = DataScientist()
 me.say_hi()
-```
-
-<hr>
-
-<!-- Keeping the Projects and Stats sections as they are valuable, but placing them after the "Image Match" content -->
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Project 1 Name** | Short description of what this project does. | `Python` `Pandas` | [View Project](#) |
-| **Project 2 Name** | Short description of what this project does. | `React` `Node.js` | [View Project](#) |
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
-### 🎯 Learning Goals
-
-- [ ] Master **Deep Learning**
-- [ ] BuAild a **Full Stack AI App**
