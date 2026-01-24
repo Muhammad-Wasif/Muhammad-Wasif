@@ -37,21 +37,26 @@
   </tr>
   <tr>
     <td align="center">
-      <!-- Languages & Frameworks & Libraries -->
+      <!-- Row 1: Languages & Frameworks -->
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,numpy,pandas,matplotlib" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs" />
       </a>
+      <br><br>
+      <!-- Row 2: Data Science Libraries (User Specified) -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 4px;" />
     </td>
     <td align="center">
-      <!-- Dev Tools -->
+      <!-- Row 1: Dev Tools -->
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,git,github" />
       </a>
       <br><br>
-      <!-- Other Tools (Real Logos) -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" height="40" alt="Microsoft Office" />
+      <!-- Row 2: Other Tools (User Specified) -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Office-2021-logo.png/480px-Office-2021-logo.png" height="40" alt="Microsoft Office 2021" style="margin: 4px;" />
     </td>
   </tr>
 </table>
@@ -123,4 +128,4 @@ me.say_hi()
 ### 🎯 Learning Goals
 
 - [ ] Master **Deep Learning**
-- [ ] Build a **Full Stack AI App**
+- [ ] BuAild a **Full Stack AI App**
