@@ -37,15 +37,10 @@
   </tr>
   <tr>
     <td align="center">
-      <!-- Languages & Frameworks -->
+      <!-- Languages & Frameworks & Libraries -->
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,numpy,pandas,matplotlib" />
       </a>
-      <br><br>
-      <!-- Data Science Libraries -->
-      <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
     </td>
     <td align="center">
       <!-- Dev Tools -->
@@ -53,10 +48,10 @@
         <img src="https://skillicons.dev/icons?i=vscode,git,github" />
       </a>
       <br><br>
-      <!-- Other Tools -->
-      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Office_2021-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+      <!-- Other Tools (Real Logos) -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" height="40" alt="Microsoft Office" />
     </td>
   </tr>
 </table>
