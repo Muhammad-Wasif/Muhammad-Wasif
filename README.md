@@ -1,75 +1,45 @@
 <div align="center">
 
-<!-- Header with Typing Animation -->
+<!-- Header with Typing Animation (User Requirement) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=HI+I'M+MUHAMMAND+WASIF,+BS+DATA+SCIENCE+STUDENT+IN+UNIVERSITY+OF+ENGINERRING+%26+TECHNOLOGY,+LAHORE" alt="Typing SVG" />
 </a>
 
-<!-- Role / Skill Focus Placeholder -->
-<h3>Student / Developer / Data Science Enthusiast</h3>
-<p><i>Passionate about Data Science, Machine Learning, and Web Development</i></p>
+<!-- Sub-header Info (Matching Image Style) -->
+<p>
+  🌍 Based in Lahore, Pakistan | 💡 Passionate about Data Science & AI
+</p>
+
+<!-- Roles (Matching Image Style) -->
+<p>
+  <i>Data Scientist | Machine Learning | Web Developer | Python Enthusiast</i>
+</p>
+
+<!-- Bio (Matching Image Style) -->
+<p align="left">
+  Welcome to my GitHub profile! I'm a passionate Data Science student with a love for uncovering insights from data and building intelligent solutions. I enjoy working with Python, Machine Learning models, and Web Technologies, and I'm always eager to learn and explore new tools and frameworks.
+</p>
 
 </div>
 
----
+<hr>
 
-### 👨‍💻 About Me
+### 🛠 Technologies & Tools
 
-<!-- Placeholder: Short bio (3-5 lines) -->
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Skill/Technology]**
-- 👯 I’m looking to collaborate on **[Type of projects]**
-- 💬 Ask me about **[Topics]**
-- ⚡ Fun fact: **[Fun fact]**
-
----
-
-### 🛠️ Skills / Tech Stack
-
-<!-- Placeholder: Logos will go here. I will use skillicons.dev or shields.io once you provide the list. -->
-<!-- Example structure: -->
-#### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-</p>
-
-#### Tools / Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-#### Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=react,django,flask" />
-</p>
-
----
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Project 1 Name** | Short description of what this project does. | `Python` `Pandas` | [View Project](#) |
-| **Project 2 Name** | Short description of what this project does. | `React` `Node.js` | [View Project](#) |
-| **Project 3 Name** | Short description of what this project does. | `HTML` `CSS` | [View Project](#) |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180" alt="languages graph" />
+<!-- Icons (Matching Image Style using skillicons.dev) -->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,django,git,github,vscode,mysql,pandas,pytorch,tensorflow" />
 </div>
 
----
+<hr>
 
-### 📫 Contact / Links
+### ☀️ Let's Connect!
 
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="left">
+  I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
+</p>
+
+<div align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -78,11 +48,54 @@
   </a>
 </div>
 
----
+<hr>
+
+### ⚡ Fun Fact
+
+<p align="left">
+  I once trained a model that could predict my coffee cravings with 85% accuracy! ☕🤖
+</p>
+
+<hr>
+
+<!-- Code Snippet (Matching Image Style) -->
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class DataScientist:
+
+    def __init__(self):
+        self.name = "Muhammad Wasif"
+        self.role = "BS Data Science Student"
+        self.university = "UET Lahore"
+        self.language_spoken = ["en_US", "ur_PK"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find something interesting!")
+
+me = DataScientist()
+me.say_hi()
+```
+
+<hr>
+
+<!-- Keeping the Projects and Stats sections as they are valuable, but placing them after the "Image Match" content -->
+
+### 🚀 Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Project 1 Name** | Short description of what this project does. | `Python` `Pandas` | [View Project](#) |
+| **Project 2 Name** | Short description of what this project does. | `React` `Node.js` | [View Project](#) |
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180" alt="languages graph" />
+</div>
 
 ### 🎯 Learning Goals
 
-- [ ] Master **[Skill 1]**
-- [ ] Build a **[Type of App]**
-- [ ] Contribute to **[Open Source Project]**
-- [ ] Career Goal: **[Your Goal]**
+- [ ] Master **Deep Learning**
+- [ ] Build a **Full Stack AI App**
