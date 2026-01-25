@@ -189,16 +189,15 @@
 <div align="center">
 
 ```python
-class HoziSkills:
+class majorskills:
     def __init__(self):
-        self.automation = ["Web Scraping", "Data Processing", "File Management"]
-        self.tools = ["CLI Tools", "Build Scripts", "Task Automation"]
-        self.data = ["Pandas", "NumPy", "Data Pipelines"]
-        self.integration = ["REST APIs", "Webhooks", "Third-party Services"]
-        self.discord = ["Discord.py", "Custom Bots", "Advanced Features"]
+        self.data_science = ["NumPy", "Pandas", "Matplotlib", "Power BI"]
+        self.web_development = ["HTML", "CSS", "JavaScript", "React", "Node.js"]
+        self.artificial_intelligence = ["OpenAI", "Hugging Face", "Claude", "Gemini", "Perplexity"]
+        self.backend_and_api = ["FastAPI", "Flask", "SQL", "Microsoft Access"]
     
-    def build_awesome_stuff(self):
-        return "💯 Always delivering quality code!"
+    def display_expertise(self):
+        return "Ideas in—intelligence out."
 ```
 
 </div>
