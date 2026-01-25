@@ -168,29 +168,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hozi8-web3&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hozi8-web3&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hozi8-web3&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&border_radius=10" alt="GitHub Streak" width="600"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hozi8-web3&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-B" alt="Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hozi8-web3&theme=react-dark&hide_border=true&area=true&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&custom_title=Contribution+Graph&bg_color=0d1117&title_color=00ff00" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-
-
 ## 🌐 Web3 & Blockchain
 
 <div align="center">
@@ -289,21 +266,22 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hozaifa-ali)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hozaifa095)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1222455872668827669)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hozaifaa095@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hozi8-web3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://hozi8-web3.github.io)
+<a href="https://majorweb.netlify.app/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/960px-Google_Chrome_icon_%28February_2022%29.svg.png" width="40" height="40" alt="Portfolio" style="margin: 10px;" />
+</a>
+<a href="mailto:wasifalibhatti12517@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="40" height="40" alt="Gmail" style="margin: 10px;" />
+</a>
+<a href="https://github.com/Muhammad-Wasif">
+  <img src="https://www.vhv.rs/dpng/d/464-4644881_social-github-outline-github-svg-logo-white-hd.png" width="40" height="40" alt="GitHub" style="margin: 10px;" />
+</a>
+<a href="https://discord.com/users/1222455872668827669">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Discord_logo.svg/1280px-Discord_logo.svg.png" width="40" height="40" alt="Discord" style="margin: 10px;" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-wasif-310324398/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png" width="40" height="40" alt="LinkedIn" style="margin: 10px;" />
+</a>
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hozi8-web3&theme=radical" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -317,20 +295,6 @@ graph LR
 ```
 
 **— David Heinemeier Hansson**
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hozi8-web3/hozi8-web3/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hozi8-web3/hozi8-web3/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hozi8-web3/hozi8-web3/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
