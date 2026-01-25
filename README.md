@@ -11,10 +11,7 @@
   <i>Data Scientist | Machine Learning | Web Developer | Python Enthusiast</i>
 </p>
 
-<!-- Bio (Matching Image Style) -->
-<p align="left">
-  Welcome to my GitHub profile! I'm a passionate Data Science student with a love for uncovering insights from data and building intelligent solutions. I enjoy working with Python, Machine Learning models, and Web Technologies, and I'm always eager to learn and explore new tools and frameworks.
-</p>
+
 
 </div>
 
@@ -24,41 +21,21 @@
 
 <img align="right" alt="Coding" width="400" src="profile_animation.gif">
 
-- 👨‍🎓 **Student of Software Engineering**
-- 🌱 Currently learning **Web3, Smart Contracts, and AI**
-- 💻 Passionate about **Backend Systems, DApps, and Automation**
-- 🚀 Always exploring new technologies and building cool projects
-- 🔭 Working on **DeFi protocols & NFT marketplaces**
-- 💬 Ask me about **Web3, Node.js, Python, Discord Bots**
-- 📫 Reach me: **hozaifaa095@gmail.com**
-- ⚡ Fun fact: **I code better at 3 AM** 🌙
+- 👨‍💻 Data Science Student & Python Developer
+- 🌱 Learning Full-Stack Development and Generative AI
+- 💻 Building portfolios and interactive dashboards with Python
+- 🧩 Passionate about backend systems, data analysis, and data management
+- 🖥️ Interested in web applications and Windows software
+- 🚀 Exploring modern technologies and creating data-driven solutions
+- 🔬 Working on data projects, dashboards, and backend architectures
+- 💬 Ask me about Python, Data Science, Backend, Full-Stack, and AI
+- ⚙️ Fun fact: I enjoy solving complex problems and optimizing systems............reach me : wasifalibhatti12517@gmail.com
 
 <br clear="right"/>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hozi8-web3&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hozi8-web3&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hozi8-web3&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&border_radius=10" alt="GitHub Streak" width="600"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hozi8-web3&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-B" alt="Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hozi8-web3&theme=react-dark&hide_border=true&area=true&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&custom_title=Contribution+Graph&bg_color=0d1117&title_color=00ff00" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-## 🛠 Technologies & Tools
+##  Technologies & Tools
 
 <table>
   <tr>
@@ -95,6 +72,29 @@
 </table>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hozi8-web3&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hozi8-web3&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hozi8-web3&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&border_radius=10" alt="GitHub Streak" width="600"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hozi8-web3&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-B" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hozi8-web3&theme=react-dark&hide_border=true&area=true&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&custom_title=Contribution+Graph&bg_color=0d1117&title_color=00ff00" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+
 
 ## 🌐 Web3 & Blockchain
 
