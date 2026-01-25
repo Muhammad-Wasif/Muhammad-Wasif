@@ -266,21 +266,48 @@ graph LR
 
 <div align="center">
 
-<a href="https://majorweb.netlify.app/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/960px-Google_Chrome_icon_%28February_2022%29.svg.png" width="40" height="40" alt="Portfolio" style="margin: 10px;" />
-</a>
-<a href="mailto:wasifalibhatti12517@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="40" height="40" alt="Gmail" style="margin: 10px;" />
-</a>
-<a href="https://github.com/Muhammad-Wasif">
-  <img src="https://www.vhv.rs/dpng/d/464-4644881_social-github-outline-github-svg-logo-white-hd.png" width="40" height="40" alt="GitHub" style="margin: 10px;" />
-</a>
-<a href="https://discord.com/users/1222455872668827669">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Discord_logo.svg/1280px-Discord_logo.svg.png" width="40" height="40" alt="Discord" style="margin: 10px;" />
-</a>
-<a href="https://www.linkedin.com/in/muhammad-wasif-310324398/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png" width="40" height="40" alt="LinkedIn" style="margin: 10px;" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://majorweb.netlify.app/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/960px-Google_Chrome_icon_%28February_2022%29.svg.png" width="30" height="30" alt="Portfolio" />
+      </a>
+    </td>
+    <td><b>Portfolio</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:wasifalibhatti12517@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="30" height="30" alt="Gmail" />
+      </a>
+    </td>
+    <td><b>Gmail</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Muhammad-Wasif">
+        <img src="https://www.vhv.rs/dpng/d/464-4644881_social-github-outline-github-svg-logo-white-hd.png" width="30" height="30" alt="GitHub" />
+      </a>
+    </td>
+    <td><b>GitHub</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://discord.com/users/1222455872668827669">
+        <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Discord_logo.svg/1280px-Discord_logo.svg.png" width="30" height="30" alt="Discord" />
+      </a>
+    </td>
+    <td><b>Discord</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/muhammad-wasif-310324398/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png" width="30" height="30" alt="LinkedIn" />
+      </a>
+    </td>
+    <td><b>LinkedIn</b></td>
+  </tr>
+</table>
 
 </div>
 
