@@ -20,108 +20,224 @@
 
 <hr>
 
-### 🛠 Technologies & Tools
+## 🎓 About Me
 
-<table>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+- 👨‍🎓 **Student of Software Engineering**
+- 🌱 Currently learning **Web3, Smart Contracts, and AI**
+- 💻 Passionate about **Backend Systems, DApps, and Automation**
+- 🚀 Always exploring new technologies and building cool projects
+- 🔭 Working on **DeFi protocols & NFT marketplaces**
+- 💬 Ask me about **Web3, Node.js, Python, Discord Bots**
+- 📫 Reach me: **hozaifaa095@gmail.com**
+- ⚡ Fun fact: **I code better at 3 AM** 🌙
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hozi8-web3&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hozi8-web3&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hozi8-web3&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&border_radius=10" alt="GitHub Streak" width="600"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hozi8-web3&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-B" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hozi8-web3&theme=react-dark&hide_border=true&area=true&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&custom_title=Contribution+Graph&bg_color=0d1117&title_color=00ff00" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,solidity,go&theme=dark" alt="Languages"/>
+</p>
+
+### Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+</p>
+
+### Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql&theme=dark" alt="Backend"/>
+</p>
+
+### Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,firebase,supabase&theme=dark" alt="Databases"/>
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" alt="Tools"/>
+</p>
+
+---
+
+## 🌐 Web3 & Blockchain
+
+<div align="center">
+
+| Technology | Experience |
+|------------|------------|
+| 🔗 **Smart Contracts** | Solidity, Hardhat, Truffle, OpenZeppelin |
+| 🌐 **DApp Development** | React, Next.js, Web3.js, Ethers.js |
+| ⛓️ **Blockchains** | Ethereum, Polygon, BSC, Arbitrum |
+| 💎 **Projects** | DeFi Protocols, NFT Marketplaces, DAOs |
+| 🔐 **Security** | Smart Contract Auditing, Best Practices |
+
+</div>
+
+---
+
+## 🐍 Python Expertise
+
+<div align="center">
+
+```python
+class HoziSkills:
+    def __init__(self):
+        self.automation = ["Web Scraping", "Data Processing", "File Management"]
+        self.tools = ["CLI Tools", "Build Scripts", "Task Automation"]
+        self.data = ["Pandas", "NumPy", "Data Pipelines"]
+        self.integration = ["REST APIs", "Webhooks", "Third-party Services"]
+        self.discord = ["Discord.py", "Custom Bots", "Advanced Features"]
+    
+    def build_awesome_stuff(self):
+        return "💯 Always delivering quality code!"
+```
+
+</div>
+
+---
+
+## 🤖 Discord Bot Development
+
+<table align="center">
   <tr>
-    <td align="center" width="50%">
-      <b>Technologies</b>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+      <br><b>Python Bots</b>
+      <br>Discord.py
     </td>
-    <td align="center" width="50%">
-      <b>Tools</b>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+      <br><b>JS Bots</b>
+      <br>Discord.js
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- Row 1: Languages & Frameworks -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs" />
-      </a>
-      <br><br>
-      <!-- Row 2: Data Science Libraries (User Specified) -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 4px;" />
-    </td>
-    <td align="center">
-      <!-- Row 1: Dev Tools -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-      </a>
-      <br><br>
-      <!-- Row 2: Other Tools (User Specified) -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Office-2021-logo.png/480px-Office-2021-logo.png" height="40" alt="Microsoft Office 2021" style="margin: 4px;" />
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+      <br><b>TS Bots</b>
+      <br>Type-safe
     </td>
   </tr>
 </table>
 
-<hr>
+**Features I Build:**
+- 🛡️ Advanced Moderation Systems
+- 🎵 Music & Entertainment
+- 👋 Welcome & Auto-responses
+- 📊 Analytics & Logging
+- 🎮 Game Integrations
+- 🤖 AI-powered Responses
 
-### ☀️ Let's Connect!
+---
 
-<p align="left">
-  I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
-</p>
-
-<div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<hr>
-
-### ⚡ Fun Fact
-
-<p align="left">
-  I once trained a model that could predict my coffee cravings with 85% accuracy! ☕🤖
-</p>
-
-<hr>
-
-<!-- Code Snippet (Matching Image Style) -->
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class DataScientist:
-
-    def __init__(self):
-        self.name = "Muhammad Wasif"
-        self.role = "BS Data Science Student"
-        self.university = "UET Lahore"
-        self.language_spoken = ["en_US", "ur_PK"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find something interesting!")
-
-me = DataScientist()
-me.say_hi()
-```
-
-<hr>
-
-<!-- Keeping the Projects and Stats sections as they are valuable, but placing them after the "Image Match" content -->
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Project 1 Name** | Short description of what this project does. | `Python` `Pandas` | [View Project](#) |
-| **Project 2 Name** | Short description of what this project does. | `React` `Node.js` | [View Project](#) |
-
-### 📊 GitHub Stats
+## 🚧 Current Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180" alt="languages graph" />
+
+```mermaid
+graph LR
+    A[Web3 DApps] --> B[Smart Contracts]
+    A --> C[Frontend Integration]
+    D[AI Backends] --> E[ML APIs]
+    D --> F[Automation]
+    G[Microservices] --> H[Scalable Architecture]
+    G --> I[Cloud Deployment]
+    
+    style A fill:#00ff00,stroke:#fff,color:#000
+    style D fill:#00ff00,stroke:#fff,color:#000
+    style G fill:#00ff00,stroke:#fff,color:#000
+```
+
 </div>
 
-### 🎯 Learning Goals
+> 🔒 Many of my contributions are in **private repositories**  
+> 🚀 Currently building: Web3 DApps, AI-powered backends, scalable microservices
 
-- [ ] Master **Deep Learning**
-- [ ] Build a **Full Stack AI App**
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hozaifa-ali)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hozaifa095)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1222455872668827669)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hozaifaa095@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hozi8-web3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://hozi8-web3.github.io)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hozi8-web3&theme=radical" alt="Contribution Graph" width="100%"/>
+</div>
+
+---
+
+## 💡 Quote of the Day
+
+<div align="center">
+
+```diff
++ "The best way to predict the future is to implement it."
+```
+
+**— David Heinemeier Hansson**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hozi8-web3/hozi8-web3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hozi8-web3/hozi8-web3/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hozi8-web3/hozi8-web3/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💚 Show some love by starring my repositories! 💚
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**Made with ❤️ by HOZI**
+
+</div>
