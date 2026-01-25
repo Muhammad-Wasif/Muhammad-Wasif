@@ -100,12 +100,12 @@
     <td align="center">
       <!-- Row 1: Languages Part 1 -->
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html" />
       </a>
       <br><br>
       <!-- Row 2: Languages Part 2 -->
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+        <img src="https://skillicons.dev/icons?i=css,react,nodejs" />
       </a>
       <br><br>
       <!-- Row 3: Data Science & Web Frameworks -->
@@ -113,9 +113,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/960px-Flask_logo.svg.png?20120519143422" height="40" alt="Flask" style="margin: 4px;" />
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 4px;" />
       <br><br>
       <!-- Row 4: AI & Other Frameworks -->
-      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/500px-Django_logo.svg.png?20101010121142" height="40" alt="Django" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png?20230731013808" height="40" alt="OpenAI" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hf-logo-with-title.svg/1280px-Hf-logo-with-title.svg.png?20240605062617" height="40" alt="Hugging Face" style="margin: 4px;" />
