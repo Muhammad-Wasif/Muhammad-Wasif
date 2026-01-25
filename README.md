@@ -58,32 +58,41 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠 Technologies & Tools
 
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,solidity,go&theme=dark" alt="Languages"/>
-</p>
-
-### Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/>
-</p>
-
-### Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql&theme=dark" alt="Backend"/>
-</p>
-
-### Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,firebase,supabase&theme=dark" alt="Databases"/>
-</p>
-
-### DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" alt="Tools"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Technologies</b>
+    </td>
+    <td align="center" width="50%">
+      <b>Tools</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Row 1: Languages & Frameworks -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs" />
+      </a>
+      <br><br>
+      <!-- Row 2: Data Science Libraries (User Specified) -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 4px;" />
+    </td>
+    <td align="center">
+      <!-- Row 1: Dev Tools -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+      </a>
+      <br><br>
+      <!-- Row 2: Other Tools (User Specified) -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 4px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
