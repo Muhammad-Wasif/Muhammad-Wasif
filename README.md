@@ -339,19 +339,19 @@ class majorskills:
 
 ## 🎯 My Mission
 
-<div align="centre">
+<div align="center">
 
 <table>
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <p align="left">
-        $\color{green}{\textsf{To\ turn\ data\ into\ meaning\ and\ code\ into\ impact.}}$<br><br>
-        $\color{green}{\textsf{To\ shape\ intelligence\ from\ algorithms\ and\ logic.}}$<br><br>
-        $\color{green}{\textsf{To\ build\ systems\ that\ endure,\ adapt,\ and\ evolve.}}$<br><br>
-        $\color{green}{\textsf{To\ connect\ ideas,\ machines,\ and\ human\ purpose.}}$<br><br>
-        $\color{green}{\textsf{To\ solve\ complexity\ with\ clarity\ and\ engineering.}}$<br><br>
-        $\color{green}{\textsf{To\ craft\ technology\ that\ empowers\ the\ future.}}$
-      </p>
+      <ul align="left">
+        <li>$\color{green}{\textsf{To\ turn\ data\ into\ meaning\ and\ code\ into\ impact.}}$</li>
+        <li>$\color{green}{\textsf{To\ shape\ intelligence\ from\ algorithms\ and\ logic.}}$</li>
+        <li>$\color{green}{\textsf{To\ build\ systems\ that\ endure,\ adapt,\ and\ evolve.}}$</li>
+        <li>$\color{green}{\textsf{To\ connect\ ideas,\ machines,\ and\ human\ purpose.}}$</li>
+        <li>$\color{green}{\textsf{To\ solve\ complexity\ with\ clarity\ and\ engineering.}}$</li>
+        <li>$\color{green}{\textsf{To\ craft\ technology\ that\ empowers\ the\ future.}}$</li>
+      </ul>
     </td>
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9lbGpwbWs0c21uaGd0N3owZXNoZHY5NnJqMmw3enQ5M20yZnE4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hWS6ZEPx0OfZU5jRMU/giphy.gif" width="100%" alt="Mission GIF" />
