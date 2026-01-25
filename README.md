@@ -29,7 +29,8 @@
 - 🚀 Exploring modern technologies and creating data-driven solutions
 - 🔬 Working on data projects, dashboards, and backend architectures
 - 💬 Ask me about Python, Data Science, Backend, Full-Stack, and AI
-- ⚙️ Fun fact: I enjoy solving complex problems and optimizing systems............reach me : wasifalibhatti12517@gmail.com
+- ⚙️ Fun fact: I enjoy solving complex problems and optimizing systems
+- ✉  Reach me: wasifalibhatti12517@gmail.com
 
 <br clear="right"/>
 
