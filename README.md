@@ -166,23 +166,7 @@
 
 </div>
 
----
 
-## 🌐 *Web3 & Blockchain*
-
-<div align="center">
-
-| Technology | Experience |
-|------------|------------|
-| 🔗 **Smart Contracts** | Solidity, Hardhat, Truffle, OpenZeppelin |
-| 🌐 **DApp Development** | React, Next.js, Web3.js, Ethers.js |
-| ⛓️ **Blockchains** | Ethereum, Polygon, BSC, Arbitrum |
-| 💎 **Projects** | DeFi Protocols, NFT Marketplaces, DAOs |
-| 🔐 **Security** | Smart Contract Auditing, Best Practices |
-
-</div>
-
----
 
 ## 🐍 *Python Expertise*
 
