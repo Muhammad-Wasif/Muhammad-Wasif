@@ -87,6 +87,8 @@
 
 ##  Technologies & Tools
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="50%">
@@ -134,6 +136,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
