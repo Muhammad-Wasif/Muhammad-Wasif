@@ -74,7 +74,7 @@
         <li>🔬 Working on <b>data projects, dashboards, and backend architectures</b></li>
         <li>💬 Ask me about <b>Python, Data Science, Backend, Full-Stack, and AI</b></li>
         <li>⚙️ Fun fact: <b>I enjoy solving complex problems and optimizing systems</b></li>
-        <li>✉ Reach me : wasifalibhatti12517@gmail.com
+        <li>✉ Reach me : <b><a href="mailto:wasifalibhatti12517@gmail.com">wasifalibhatti12517@gmail.com</a></b></li>
       </ul>
     </td>
     <td width="40%" align="center">
