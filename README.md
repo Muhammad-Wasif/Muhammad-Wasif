@@ -246,7 +246,7 @@ class majorskills:
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 10px;" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="NumPy" style="margin: 10px;" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 10px;" />
-        <img src="https://www.python.org/static/community_logos/python-logo-only.png" height="40" alt="OS" style="margin: 10px;" />
+        <img src="https://img.shields.io/badge/-OS-yellow?style=for-the-badge" height="40" alt="OS" style="margin: 10px;" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/960px-Flask_logo.svg.png?20120519143422" height="40" alt="Flask" style="margin: 10px;" />
         <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 10px;" />
       </div>
