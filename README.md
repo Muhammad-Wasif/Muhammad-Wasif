@@ -91,34 +91,47 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>Technologies</b>
-    </td>
-    <td align="center" width="50%">
-      <b>Tools</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- Row 1: Languages & Frameworks -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs" />
-      </a>
-      <br><br>
-      <!-- Row 2: Data Science Libraries (User Specified) -->
+    <td align="center" width="50%" valign="top">
+      <h3>Technologies</h3>
+      
+      <h4>Programming Languages</h4>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+      
+      <h4>Frontend Development</h4>
+      <img src="https://skillicons.dev/icons?i=react" />
+      
+      <h4>Backend Development</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django" />
+      
+      <h4>AI & Data Science</h4>
+      <!-- Existing -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 4px;" />
+      <!-- New -->
+      <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="OpenAI" style="margin: 4px;" />
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" height="40" alt="AWS Boto3" style="margin: 4px;" />
     </td>
-    <td align="center">
-      <!-- Row 1: Dev Tools -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-      </a>
-      <br><br>
-      <!-- Row 2: Other Tools (User Specified) -->
+    <td align="center" width="50%" valign="top">
+      <h3>Tools</h3>
+      
+      <h4>Development</h4>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter" style="margin: 4px;" />
+      
+      <h4>Data & Databases</h4>
+      <!-- Existing -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 4px;" />
+      <!-- New -->
+      <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="Excel" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Microsoft_Office_Access_%282019%E2%80%93present%29.svg" height="40" alt="Access" style="margin: 4px;" />
+      
+      <h4>Operating Systems</h4>
+      <img src="https://skillicons.dev/icons?i=linux,windows" />
     </td>
   </tr>
 </table>
