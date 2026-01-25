@@ -345,12 +345,12 @@ class majorskills:
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
       <ul align="left">
-        <li>$\color{white}{\textsf{To\ turn\ data\ into\ meaning\ and\ code\ into\ impact.}}$</li>
-        <li>$\color{white}{\textsf{To\ shape\ intelligence\ from\ algorithms\ and\ logic.}}$</li>
-        <li>$\color{white}{\textsf{To\ build\ systems\ that\ endure,\ adapt,\ and\ evolve.}}$</li>
-        <li>$\color{white}{\textsf{To\ connect\ ideas,\ machines,\ and\ human\ purpose.}}$</li>
-        <li>$\color{white}{\textsf{To\ solve\ complexity\ with\ clarity\ and\ engineering.}}$</li>
-        <li>$\color{white}{\textsf{To\ craft\ technology\ that\ empowers\ the\ future.}}$</li>
+        <li>$\color{blue}{\textsf{To\ turn\ data\ into\ meaning\ and\ code\ into\ impact.}}$</li>
+        <li>$\color{blue}{\textsf{To\ shape\ intelligence\ from\ algorithms\ and\ logic.}}$</li>
+        <li>$\color{blue}{\textsf{To\ build\ systems\ that\ endure,\ adapt,\ and\ evolve.}}$</li>
+        <li>$\color{blue}{\textsf{To\ connect\ ideas,\ machines,\ and\ human\ purpose.}}$</li>
+        <li>$\color{blue}{\textsf{To\ solve\ complexity\ with\ clarity\ and\ engineering.}}$</li>
+        <li>$\color{blue}{\textsf{To\ craft\ technology\ that\ empowers\ the\ future.}}$</li>
       </ul>
     </td>
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
@@ -368,7 +368,7 @@ class majorskills:
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓬𝓪𝓷+𝓱𝓪𝓿𝓮+𝓷𝓸𝓽𝓱𝓲𝓷𝓰+𝓫𝓾𝓽+𝔀𝓱𝓪𝓽+𝓱𝓮+𝓼𝓽𝓻𝓲𝓿𝓮𝓼+𝓯𝓸𝓻%3B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓬𝓪𝓷+𝓱𝓪𝓿𝓮+𝓷𝓸𝓽𝓱𝓲𝓷𝓰+𝓫𝓾𝓽+𝔀𝓱𝓪𝓽+𝓱𝓮+𝓼𝓽𝓻𝓲𝓿𝓮𝓼+𝓯𝓸𝓻%3B" alt="Typing SVG" />
 </a>
 
 **— Surah An-Najm Ayat 39 (53:39 Quran)**
@@ -383,6 +383,6 @@ class majorskills:
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Made with ❤️ by HOZI**
+**Made with ❤️ by $\color{green}{\textsf{𝕄𝕦𝕙𝕒𝕞𝕞𝕒𝕕\ 𝕎𝕒𝕤𝕚𝕗}}$**
 
 </div>
