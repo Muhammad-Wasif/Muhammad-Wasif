@@ -237,38 +237,46 @@ class majorskills:
 <div align="center">
 
 <table>
+  <!-- Row 1: Backend -->
   <tr>
-    <td align="center" width="33%">
+    <td align="center">
       $\Large\color{red}{\underline{\textsf{Backend\ using\ Python}}}$
       <br><br>
-      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 5px;" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="NumPy" style="margin: 5px;" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 5px;" />
-        <br>
-        <img src="https://www.python.org/static/community_logos/python-logo-only.png" height="40" alt="OS" style="margin: 5px;" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/960px-Flask_logo.svg.png?20120519143422" height="40" alt="Flask" style="margin: 5px;" />
-        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 5px;" />
+      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; display: inline-block;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 10px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="NumPy" style="margin: 10px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 10px;" />
+        <img src="https://www.python.org/static/community_logos/python-logo-only.png" height="40" alt="OS" style="margin: 10px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/960px-Flask_logo.svg.png?20120519143422" height="40" alt="Flask" style="margin: 10px;" />
+        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 10px;" />
       </div>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <!-- Row 2: Frontend -->
+  <tr>
+    <td align="center">
+      <br>
       $\Large\color{red}{\underline{\textsf{Frontend\ Website}}}$
       <br><br>
-      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" style="margin: 5px;" />
-        <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" style="margin: 5px;" />
-        <img src="https://skillicons.dev/icons?i=js" height="40" alt="JS" style="margin: 5px;" />
-        <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" style="margin: 5px;" />
+      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; display: inline-block;">
+        <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" style="margin: 10px;" />
+        <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" style="margin: 10px;" />
+        <img src="https://skillicons.dev/icons?i=js" height="40" alt="JS" style="margin: 10px;" />
+        <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" style="margin: 10px;" />
       </div>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <!-- Row 3: Dashboard -->
+  <tr>
+    <td align="center">
+      <br>
       $\Large\color{red}{\underline{\textsf{Dashboard}}}$
       <br><br>
-      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 5px;" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/960px-Microsoft_Excel_2013-2019_logo.svg.png" height="40" alt="Excel" style="margin: 5px;" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Microsoft_Access_2013-2019_logo.svg/960px-Microsoft_Access_2013-2019_logo.svg.png" height="40" alt="Access" style="margin: 5px;" />
-        <img src="https://img.icons8.com/?size=96&id=J6KcaRLsTgpZ&format=png" height="40" alt="SQL" style="margin: 5px;" />
+      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; display: inline-block;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 10px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/960px-Microsoft_Excel_2013-2019_logo.svg.png" height="40" alt="Excel" style="margin: 10px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Microsoft_Access_2013-2019_logo.svg/960px-Microsoft_Access_2013-2019_logo.svg.png" height="40" alt="Access" style="margin: 10px;" />
+        <img src="https://img.icons8.com/?size=96&id=J6KcaRLsTgpZ&format=png" height="40" alt="SQL" style="margin: 10px;" />
       </div>
     </td>
   </tr>
