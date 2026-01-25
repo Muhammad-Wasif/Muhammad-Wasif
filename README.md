@@ -22,7 +22,7 @@
 
 ## 🎓 About Me
 
-<img align="right" alt="Coding" width="400" src="PixVerse_V5.5_Image_Text_360P_Style__Setting__%20(1).gif">
+<img align="right" alt="Coding" width="400" src="profile_animation.gif">
 
 - 👨‍🎓 **Student of Software Engineering**
 - 🌱 Currently learning **Web3, Smart Contracts, and AI**
