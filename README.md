@@ -1,17 +1,59 @@
 <div align="center">
 
-<!-- Header with Typing Animation (User Requirement) -->
+<!-- Part 1: Animated Text -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=ℌ𝔦%2C+𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡+𝔚𝔞𝔰𝔦𝔣+ℌ𝔢𝔯𝔢.;𝔘𝔫𝔦𝔳𝔢𝔯𝔰𝔦𝔱𝔶+𝔬𝔣+𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯𝔦𝔫𝔤+%26+𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶%2C+𝔏𝔞𝔥𝔬𝔯𝔢.;ℭ𝔬𝔣𝔣𝔢𝔢+𝔦𝔫+𝔥𝔞𝔫𝔡%2C+𝔩𝔬𝔤𝔦𝔠+𝔦𝔫+𝔪𝔦𝔫𝔡%2C+𝔠𝔬𝔡𝔢+𝔦𝔫+𝔪𝔬𝔱𝔦𝔬𝔫." alt="Typing SVG" />
 </a>
 
-
-<!-- Roles (Matching Image Style) -->
-<p>
-  <i>Data Scientist | Machine Learning | Web Developer | Python Enthusiast</i>
-</p>
-
-
+<!-- Part 2: Skills Grid & Character Image -->
+<table>
+  <tr>
+    <td width="60%">
+      <table>
+        <tr>
+          <td width="50%">
+            <h3>Data Science</h3>
+            <ul>
+              <li>Data Analysis</li>
+              <li>Data Visualization</li>
+              <li>Data Management</li>
+              <li>Dashboard Builder</li>
+            </ul>
+          </td>
+          <td width="50%">
+            <h3>Web Development</h3>
+            <ul>
+              <li>Web App Development</li>
+              <li>Portfolio Builder</li>
+              <li>Small Business Dashboard</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <h3>Artificial Intelligence</h3>
+            <ul>
+              <li>Generative AI</li>
+              <li>Chat Bots</li>
+              <li>Business Automation</li>
+            </ul>
+          </td>
+          <td>
+            <h3>Python Development</h3>
+            <ul>
+              <li>Python System Development</li>
+              <li>OOP</li>
+              <li>Data-Driven Projects</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://static.wikia.nocookie.net/theunitedorganizationtoonsheroes/images/0/08/Megumi_Fushiguro.png/revision/latest?cb=20220131233227" alt="Megumi Fushiguro" width="100%">
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -29,8 +71,7 @@
 - 🚀 Exploring modern technologies and creating data-driven solutions
 - 🔬 Working on data projects, dashboards, and backend architectures
 - 💬 Ask me about Python, Data Science, Backend, Full-Stack, and AI
-- ⚙️ Fun fact: I enjoy solving complex problems and optimizing systems
-- ✉  Reach me: wasifalibhatti12517@gmail.com
+- ⚙️ Fun fact: I enjoy solving complex problems and optimizing systems............reach me : wasifalibhatti12517@gmail.com
 
 <br clear="right"/>
 
