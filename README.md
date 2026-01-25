@@ -12,7 +12,7 @@
       <table>
         <tr>
           <td width="50%">
-            $\Large\color{red}{\underline{\textsf{Data Science}}}$
+            $\Large\color{red}{\underline{\textsf{Data\ \ Science}}}$
             <ul>
               <li>Data Analysis</li>
               <li>Data Visualization</li>
@@ -21,7 +21,7 @@
             </ul>
           </td>
           <td width="50%">
-            $\Large\color{red}{\underline{\textsf{Web Development}}}$
+            $\Large\color{red}{\underline{\textsf{Web\ \ Development}}}$
             <ul>
               <li>Web App Development</li>
               <li>Portfolio Builder</li>
@@ -31,7 +31,7 @@
         </tr>
         <tr>
           <td>
-            $\Large\color{red}{\underline{\textsf{Artificial Intelligence}}}$
+            $\Large\color{red}{\underline{\textsf{Artificial\ \ Intelligence}}}$
             <ul>
               <li>Generative AI</li>
               <li>Chat Bots</li>
@@ -39,9 +39,9 @@
             </ul>
           </td>
           <td>
-            $\Large\color{red}{\underline{\textsf{Python Development}}}$
+            $\Large\color{red}{\underline{\textsf{Python\ \ Development}}}$
             <ul>
-              <li>System Development</li>
+              <li>Python System Development</li>
               <li>OOP</li>
               <li>Data-Driven Projects</li>
             </ul>
