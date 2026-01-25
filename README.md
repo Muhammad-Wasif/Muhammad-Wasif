@@ -2,7 +2,7 @@
 
 <!-- Part 1: Animated Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4500&pause=450&color=00FF00&center=true&vCenter=true&width=1000&lines=ℌ𝔦%2C+𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡+𝔚𝔞𝔰𝔦𝔣+ℌ𝔢𝔯𝔢.;𝔅𝔰+𝔇𝔞𝔱𝔞+𝔖𝔠𝔦𝔢𝔫𝔠𝔢.;𝔘𝔫𝔦𝔳𝔢𝔯𝔰𝔦𝔱𝔶+𝔬𝔣+𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯𝔦𝔫𝔤+%26+𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶%2C+𝔏𝔞𝔥𝔬𝔯𝔢.;ℭ𝔬𝔣𝔣𝔢𝔢+𝔦𝔫+𝔥𝔞𝔫𝔡%2C+𝔩𝔬𝔤𝔦𝔠+𝔦𝔫+𝔪𝔦𝔫𝔡%2C+𝔠𝔬𝔡𝔢+𝔦𝔫+𝔪𝔬𝔱𝔦𝔬𝔫." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=ℌ𝔦%2C+𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡+𝔚𝔞𝔰𝔦𝔣+ℌ𝔢𝔯𝔢.;𝔅𝔰+𝔇𝔞𝔱𝔞+𝔖𝔠𝔦𝔢𝔫𝔠𝔢.;𝔘𝔫𝔦𝔳𝔢𝔯𝔰𝔦𝔱𝔶+𝔬𝔣+𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯𝔦𝔫𝔤+%26+𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶%2C+𝔏𝔞𝔥𝔬𝔯𝔢.;ℭ𝔬𝔣𝔣𝔢𝔢+𝔦𝔫+𝔥𝔞𝔫𝔡%2C+𝔩𝔬𝔤𝔦𝔠+𝔦𝔫+𝔪𝔦𝔫𝔡%2C+𝔠𝔬𝔡𝔢+𝔦𝔫+𝔪𝔬𝔱𝔦𝔬𝔫." alt="Typing SVG" />
 </a>
 
 <!-- Part 2: Skills Grid & Character Image -->
