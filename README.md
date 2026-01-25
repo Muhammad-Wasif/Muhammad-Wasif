@@ -63,15 +63,16 @@
 
 <img align="right" alt="Coding" width="400" src="profile_animation.gif">
 
-- 👨‍💻 Data Science Student & Python Developer
-- 🌱 Learning Full-Stack Development and Generative AI
-- 💻 Building portfolios and interactive dashboards with Python
-- 🧩 Passionate about backend systems, data analysis, and data management
-- 🖥️ Interested in web applications and Windows software
-- 🚀 Exploring modern technologies and creating data-driven solutions
-- 🔬 Working on data projects, dashboards, and backend architectures
-- 💬 Ask me about Python, Data Science, Backend, Full-Stack, and AI
-- ⚙️ Fun fact: I enjoy solving complex problems and optimizing systems............reach me : wasifalibhatti12517@gmail.com
+- 👨‍💻 **Data Science Student & Python Developer**
+- 🌱 Learning **Full-Stack Development and Generative AI**
+- 💻 Building **Portfolios with Web Languages and interactive dashboards with Power bi**
+- 🧩 Passionate about **Backend systems, data analysis, and data management**
+- 🖥️ Interested in **Web applications and Windows software**
+- 🚀 **Exploring modern technologies and creating data-driven solutions**
+- 🔬 Working on **data projects, dashboards, and backend architectures**
+- 💬 Ask me about **Python, Data Science, Backend, Full-Stack, and AI**
+- ⚙️ Fun fact: **I enjoy solving complex problems and optimizing systems**
+- ✉ Reach me : **wasifalibhatti12517@gmail.com**
 
 <br clear="right"/>
 
