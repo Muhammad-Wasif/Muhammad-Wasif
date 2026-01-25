@@ -12,7 +12,7 @@
       <table>
         <tr>
           <td width="50%">
-            $\Large\color{red}{\underline{\textsf{Data\ \ Science}}}$
+            <h3><u><font color="red">Data Science</font></u></h3>
             <ul>
               <li>Data Analysis</li>
               <li>Data Visualization</li>
@@ -21,7 +21,7 @@
             </ul>
           </td>
           <td width="50%">
-            $\Large\color{red}{\underline{\textsf{Web\ \ Development}}}$
+            <h3><u><font color="red">Web Development</font></u></h3>
             <ul>
               <li>Web App Development</li>
               <li>Portfolio Builder</li>
@@ -31,7 +31,7 @@
         </tr>
         <tr>
           <td>
-            $\Large\color{red}{\underline{\textsf{Artificial\ \ Intelligence}}}$
+            <h3><u><font color="red">Artificial Intelligence</font></u></h3>
             <ul>
               <li>Generative AI</li>
               <li>Chat Bots</li>
@@ -39,7 +39,7 @@
             </ul>
           </td>
           <td>
-            $\Large\color{red}{\underline{\textsf{Python\ \ Development}}}$
+            <h3><u><font color="red">Python Development</font></u></h3>
             <ul>
               <li>Python System Development</li>
               <li>OOP</li>
@@ -93,7 +93,7 @@
   <!-- Row 1: Frontend & Backend -->
   <tr>
     <td align="center" width="50%">
-      $\Large\color{red}{\underline{\textsf{Frontend}}}$
+      <h3><u><font color="red">Frontend</font></u></h3>
       <br><br>
       <img src="https://skillicons.dev/icons?i=html" style="margin: 35px;" />
       <img src="https://skillicons.dev/icons?i=css" style="margin: 35px;" />
@@ -101,7 +101,7 @@
       <img src="https://skillicons.dev/icons?i=react" style="margin: 35px;" />
     </td>
     <td align="center" width="50%">
-      $\Large\color{red}{\underline{\textsf{Backend}}}$
+      <h3><u><font color="red">Backend</font></u></h3>
       <br><br>
       <img src="https://skillicons.dev/icons?i=python" style="margin: 35px;" />
       <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 35px;" />
@@ -115,14 +115,14 @@
   <!-- Row 2: Data Science & AI -->
   <tr>
     <td align="center">
-      $\Large\color{red}{\underline{\textsf{Data\ Science}}}$
+      <h3><u><font color="red">Data Science</font></u></h3>
       <br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 35px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 35px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 35px;" />
     </td>
     <td align="center">
-      $\Large\color{red}{\underline{\textsf{AI}}}$
+      <h3><u><font color="red">AI</font></u></h3>
       <br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/1280px-Claude_AI_logo.svg.png?20240803183132" height="40" alt="Claude" style="margin: 35px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/1280px-Google_Gemini_icon_2025.svg.png?20250728014952" height="40" alt="Gemini" style="margin: 35px;" />
@@ -132,14 +132,14 @@
   <!-- Row 3: API & Database -->
   <tr>
     <td align="center">
-      $\Large\color{red}{\underline{\textsf{API}}}$
+      <h3><u><font color="red">API</font></u></h3>
       <br><br>
       <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 35px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png?20230731013808" height="40" alt="OpenAI" style="margin: 35px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hf-logo-with-title.svg/1280px-Hf-logo-with-title.svg.png?20240605062617" height="40" alt="Hugging Face" style="margin: 35px;" />
     </td>
     <td align="center">
-      $\Large\color{red}{\underline{\textsf{Database}}}$
+      <h3><u><font color="red">Database</font></u></h3>
       <br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Microsoft_Access_2013-2019_logo.svg/960px-Microsoft_Access_2013-2019_logo.svg.png" height="40" alt="Microsoft Access" style="margin: 35px;" />
       <img src="https://img.icons8.com/?size=96&id=J6KcaRLsTgpZ&format=png" height="40" alt="SQL" style="margin: 35px;" />
@@ -148,7 +148,7 @@
   <!-- Row 4: Tools & Platforms (Full Width) -->
   <tr>
     <td align="center" colspan="2">
-      $\Large\color{red}{\underline{\textsf{Tools\ \&\ Platforms}}}$
+      <h3><u><font color="red">Tools & Platforms</font></u></h3>
       <br><br>
       <img src="https://skillicons.dev/icons?i=vscode" style="margin: 35px;" />
       <img src="https://skillicons.dev/icons?i=git" style="margin: 35px;" />
@@ -240,7 +240,7 @@ class majorskills:
   <!-- Row 1: Backend -->
   <tr>
     <td align="center">
-      $\Large\color{red}{\underline{\textsf{Backend\ using\ Python}}}$
+      <h3><u><font color="red">Backend using Python</font></u></h3>
       <br><br>
       <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; display: inline-block;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 10px;" />
@@ -256,7 +256,7 @@ class majorskills:
   <tr>
     <td align="center">
       <br>
-      $\Large\color{red}{\underline{\textsf{Frontend\ Website}}}$
+      <h3><u><font color="red">Frontend Website</font></u></h3>
       <br><br>
       <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; display: inline-block;">
         <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" style="margin: 10px;" />
@@ -270,7 +270,7 @@ class majorskills:
   <tr>
     <td align="center">
       <br>
-      $\Large\color{red}{\underline{\textsf{Dashboard}}}$
+      <h3><u><font color="red">Dashboard</font></u></h3>
       <br><br>
       <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; display: inline-block;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 10px;" />
@@ -345,12 +345,12 @@ class majorskills:
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
       <ul align="left">
-        <li>$\color{blue}{\textsf{To\ turn\ data\ into\ meaning\ and\ code\ into\ impact.}}$</li>
-        <li>$\color{blue}{\textsf{To\ shape\ intelligence\ from\ algorithms\ and\ logic.}}$</li>
-        <li>$\color{blue}{\textsf{To\ build\ systems\ that\ endure,\ adapt,\ and\ evolve.}}$</li>
-        <li>$\color{blue}{\textsf{To\ connect\ ideas,\ machines,\ and\ human\ purpose.}}$</li>
-        <li>$\color{blue}{\textsf{To\ solve\ complexity\ with\ clarity\ and\ engineering.}}$</li>
-        <li>$\color{blue}{\textsf{To\ craft\ technology\ that\ empowers\ the\ future.}}$</li>
+        <li><font color="blue">To turn data into meaning and code into impact.</font></li>
+        <li><font color="blue">To shape intelligence from algorithms and logic.</font></li>
+        <li><font color="blue">To build systems that endure, adapt, and evolve.</font></li>
+        <li><font color="blue">To connect ideas, machines, and human purpose.</font></li>
+        <li><font color="blue">To solve complexity with clarity and engineering.</font></li>
+        <li><font color="blue">To craft technology that empowers the future.</font></li>
       </ul>
     </td>
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
@@ -383,6 +383,6 @@ class majorskills:
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Made with ❤️ by $\color{green}{\textsf{𝕄𝕦𝕙𝕒𝕞𝕞𝕒𝕕\ 𝕎𝕒𝕤𝕚𝕗}}$**
+**Made with ❤️ by <font color="green">𝕄𝕦𝕙𝕒𝕞𝕞𝕒𝕕 𝕎𝕒𝕤𝕚𝕗</font>**
 
 </div>
