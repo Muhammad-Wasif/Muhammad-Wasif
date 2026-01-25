@@ -90,48 +90,54 @@
 <div align="center">
 
 <table>
+  <!-- Row 1: Frontend & Backend -->
   <tr>
     <td align="center" width="50%">
-      <b>Technologies</b>
+      $\Large\color{red}{\underline{\textsf{Frontend}}}$
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     </td>
     <td align="center" width="50%">
-      <b>Tools</b>
+      $\Large\color{red}{\underline{\textsf{Backend}}}$
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=python,nodejs,c,cpp" />
+      <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/500px-Django_logo.svg.png?20101010121142" height="40" alt="Django" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/960px-Flask_logo.svg.png?20120519143422" height="40" alt="Flask" style="margin: 4px;" />
     </td>
   </tr>
+  <!-- Row 2: AI/DS & Tools -->
   <tr>
     <td align="center">
-      <!-- Row 1: Languages Part 1 -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html" />
-      </a>
+      $\Large\color{red}{\underline{\textsf{AI\ \&\ Data\ Science}}}$
       <br><br>
-      <!-- Row 2: Languages Part 2 -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=css,react,nodejs" />
-      </a>
-      <br><br>
-      <!-- Row 3: Data Science & Web Frameworks -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/960px-Flask_logo.svg.png?20120519143422" height="40" alt="Flask" style="margin: 4px;" />
-      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 4px;" />
-      <br><br>
-      <!-- Row 4: AI & Other Frameworks -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/500px-Django_logo.svg.png?20101010121142" height="40" alt="Django" style="margin: 4px;" />
+      <br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png?20230731013808" height="40" alt="OpenAI" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hf-logo-with-title.svg/1280px-Hf-logo-with-title.svg.png?20240605062617" height="40" alt="Hugging Face" style="margin: 4px;" />
     </td>
     <td align="center">
-      <!-- Row 1: Dev Tools -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-      </a>
+      $\Large\color{red}{\underline{\textsf{Tools\ \&\ Platforms}}}$
       <br><br>
-      <!-- Row 2: Other Tools -->
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+      <br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/960px-Microsoft_Excel_2013-2019_logo.svg.png" height="40" alt="Microsoft Excel" style="margin: 4px;" />
+    </td>
+  </tr>
+  <!-- Row 3: API & Database -->
+  <tr>
+    <td align="center">
+      $\Large\color{red}{\underline{\textsf{API}}}$
+      <br><br>
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 4px;" />
+    </td>
+    <td align="center">
+      $\Large\color{red}{\underline{\textsf{Database}}}$
+      <br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Microsoft_Access_2013-2019_logo.svg/960px-Microsoft_Access_2013-2019_logo.svg.png" height="40" alt="Microsoft Access" style="margin: 4px;" />
     </td>
   </tr>
