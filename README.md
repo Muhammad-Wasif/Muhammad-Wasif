@@ -107,7 +107,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 4px;" />
-      <img src="https://www.vhv.rs/dpng/d/609-6093398_prog-flask-flask-python-icon-png-transparent-png.png" height="40" alt="Flask" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/960px-Flask_logo.svg.png?20120519143422" height="40" alt="Flask" style="margin: 4px;" />
       <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/500px-Django_logo.svg.png?20101010121142" height="40" alt="Django" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png?20230731013808" height="40" alt="OpenAI" style="margin: 4px;" />
@@ -123,7 +123,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/960px-Microsoft_Excel_2013-2019_logo.svg.png" height="40" alt="Microsoft Excel" style="margin: 4px;" />
-      <img src="https://e7.pngegg.com/pngimages/846/536/png-clipart-microsoft-access-microsoft-office-microsoft-corporation-graphics-microsoft-excel-microsoft-access-logo-text-trademark.png" height="40" alt="Microsoft Access" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Microsoft_Access_2013-2019_logo.svg/960px-Microsoft_Access_2013-2019_logo.svg.png" height="40" alt="Microsoft Access" style="margin: 4px;" />
     </td>
   </tr>
 </table>
