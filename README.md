@@ -186,8 +186,6 @@
 
 ## 🐍 Python Expertise
 
-<div align="center">
-
 ```python
 class majorskills:
     def __init__(self):
@@ -199,8 +197,6 @@ class majorskills:
     def display_expertise(self):
         return "Ideas in—intelligence out."
 ```
-
-</div>
 
 ---
 
