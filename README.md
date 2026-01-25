@@ -91,34 +91,49 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>Technologies</b>
-    </td>
-    <td align="center" width="50%">
-      <b>Tools</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- Row 1: Languages & Frameworks -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs" />
-      </a>
-      <br><br>
-      <!-- Row 2: Data Science Libraries (User Specified) -->
+    <td align="center" width="50%" valign="top">
+      <h3>Technologies</h3>
+      
+      <h4>Programming Languages</h4>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,solidity" />
+      
+      <h4>Frontend Development</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+      
+      <h4>Backend Development</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 4px;" />
+      <img src="https://www.vhv.rs/dpng/d/609-6093398_prog-flask-flask-python-icon-png-transparent-png.png" height="40" alt="Flask" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/500px-Django_logo.svg.png?20101010121142" height="40" alt="Django" style="margin: 4px;" />
+      
+      <h4>AI & Data Science</h4>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 4px;" />
+      <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png?20230731013808" height="40" alt="OpenAI" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hf-logo-with-title.svg/1280px-Hf-logo-with-title.svg.png?20240605062617" height="40" alt="Hugging Face" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" height="40" alt="AWS Boto3" style="margin: 4px;" />
     </td>
-    <td align="center">
-      <!-- Row 1: Dev Tools -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-      </a>
-      <br><br>
-      <!-- Row 2: Other Tools (User Specified) -->
+    <td align="center" width="50%" valign="top">
+      <h3>Tools</h3>
+      
+      <h4>DevOps & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter" style="margin: 4px;" />
+      
+      <h4>Databases & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+      
+      <h4>Data Analysis Tools</h4>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" style="margin: 4px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 4px;" />
+      <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/960px-Microsoft_Excel_2013-2019_logo.svg.png" height="40" alt="Excel" style="margin: 4px;" />
+      <img src="https://e7.pngegg.com/pngimages/846/536/png-clipart-microsoft-access-microsoft-office-microsoft-corporation-graphics-microsoft-excel-microsoft-access-logo-text-trademark.png" height="40" alt="Access" style="margin: 4px;" />
+      
+      <h4>Operating Systems</h4>
+      <img src="https://skillicons.dev/icons?i=linux,windows" />
     </td>
   </tr>
 </table>
