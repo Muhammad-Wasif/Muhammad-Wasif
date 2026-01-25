@@ -85,6 +85,8 @@
 
 ---
 
+<div align="center">
+
 ##  Technologies & Tools
 
 <table>
@@ -121,26 +123,11 @@
   </tr>
 </table>
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hozi8-web3&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hozi8-web3&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hozi8-web3&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&border_radius=10" alt="GitHub Streak" width="600"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hozi8-web3&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-B" alt="Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hozi8-web3&theme=react-dark&hide_border=true&area=true&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&custom_title=Contribution+Graph&bg_color=0d1117&title_color=00ff00" alt="Activity Graph" width="100%"/>
-</div>
 
 ---
 
@@ -167,16 +154,15 @@
 <div align="center">
 
 ```python
-class HoziSkills:
+class majorskills:
     def __init__(self):
-        self.automation = ["Web Scraping", "Data Processing", "File Management"]
-        self.tools = ["CLI Tools", "Build Scripts", "Task Automation"]
-        self.data = ["Pandas", "NumPy", "Data Pipelines"]
-        self.integration = ["REST APIs", "Webhooks", "Third-party Services"]
-        self.discord = ["Discord.py", "Custom Bots", "Advanced Features"]
+        self.automation = ["Web Scraping", "File Management", "Task Automation", "Script Maker"]
+        self.data = ["Data Analysis", "NumPy", "Pandas", "Matplotlib", "Data Pipelines"]
+        self.development = ["System Development", "Dashboards", "Chatbots"]
+        self.integration = ["APIs", "Third-party Services"]
     
-    def build_awesome_stuff(self):
-        return "💯 Always delivering quality code!"
+    def build_solutions(self):
+        return "� Automating the boring stuff & building data-driven systems!"
 ```
 
 </div>
