@@ -41,7 +41,7 @@
           <td>
             $\Large\color{red}{\underline{\textsf{Python\ \ Development}}}$
             <ul>
-              <li>System Development</li>
+              <li>Python System Development</li>
               <li>OOP</li>
               <li>Data-Driven Projects</li>
             </ul>
@@ -61,20 +61,27 @@
 
 ## 🎓 About Me
 
-<img align="right" alt="Coding" width="400" src="profile_animation.gif">
-
-- 👨‍💻 **Data Science Student & Python Developer**
-- 🌱 Learning **Full-Stack Development and Generative AI**
-- 💻 Building **Portfolios with Web Languages and interactive dashboards with Power bi**
-- 🧩 Passionate about **Backend systems, data analysis, and data management**
-- 🖥️ Interested in **Web applications and Windows software**
-- 🚀 **Exploring modern technologies and creating data-driven solutions**
-- 🔬 Working on **data projects, dashboards, and backend architectures**
-- 💬 Ask me about **Python, Data Science, Backend, Full-Stack, and AI**
-- ⚙️ Fun fact: **I enjoy solving complex problems and optimizing systems**
-- ✉ Reach me : **wasifalibhatti12517@gmail.com**
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>👨‍💻 <b>Data Science Student & Python Developer</b></li>
+        <li>🌱 Learning <b>Full-Stack Development and Generative AI</b></li>
+        <li>💻 Building <b>Portfolios with Web Languages and interactive dashboards with Power bi</b></li>
+        <li>🧩 Passionate about <b>Backend systems, data analysis, and data management</b></li>
+        <li>🖥️ Interested in <b>Web applications and Windows software</b></li>
+        <li>🚀 <b>Exploring modern technologies and creating data-driven solutions</b></li>
+        <li>🔬 Working on <b>data projects, dashboards, and backend architectures</b></li>
+        <li>💬 Ask me about <b>Python, Data Science, Backend, Full-Stack, and AI</b></li>
+        <li>⚙️ Fun fact: <b>I enjoy solving complex problems and optimizing systems</b></li>
+        <li>✉ Reach me : <b>wasifalibhatti12517@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp5MGV5ajVrYjRybnkyam4xczBtZTBpbm8xd29pajhicWM1dHQzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0okL9TJR0QcQezOxza/giphy.gif" alt="Coding GIF" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
