@@ -41,7 +41,7 @@
           <td>
             <h3><i><u><font color="red">Python Development</font></u></i></h3>
             <ul>
-              <li>Python System Development</li>
+              <li>System Development</li>
               <li>OOP</li>
               <li>Data-Driven Projects</li>
             </ul>
