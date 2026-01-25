@@ -345,12 +345,12 @@ class majorskills:
   <tr>
     <td width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
       <ul align="left">
-        <li>$\color{green}{\textsf{To\ turn\ data\ into\ meaning\ and\ code\ into\ impact.}}$</li>
-        <li>$\color{green}{\textsf{To\ shape\ intelligence\ from\ algorithms\ and\ logic.}}$</li>
-        <li>$\color{green}{\textsf{To\ build\ systems\ that\ endure,\ adapt,\ and\ evolve.}}$</li>
-        <li>$\color{green}{\textsf{To\ connect\ ideas,\ machines,\ and\ human\ purpose.}}$</li>
-        <li>$\color{green}{\textsf{To\ solve\ complexity\ with\ clarity\ and\ engineering.}}$</li>
-        <li>$\color{green}{\textsf{To\ craft\ technology\ that\ empowers\ the\ future.}}$</li>
+        <li>$\color{white}{\textsf{To\ turn\ data\ into\ meaning\ and\ code\ into\ impact.}}$</li>
+        <li>$\color{white}{\textsf{To\ shape\ intelligence\ from\ algorithms\ and\ logic.}}$</li>
+        <li>$\color{white}{\textsf{To\ build\ systems\ that\ endure,\ adapt,\ and\ evolve.}}$</li>
+        <li>$\color{white}{\textsf{To\ connect\ ideas,\ machines,\ and\ human\ purpose.}}$</li>
+        <li>$\color{white}{\textsf{To\ solve\ complexity\ with\ clarity\ and\ engineering.}}$</li>
+        <li>$\color{white}{\textsf{To\ craft\ technology\ that\ empowers\ the\ future.}}$</li>
       </ul>
     </td>
     <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
@@ -363,15 +363,15 @@ class majorskills:
 
 ---
 
-## 💡 Quote of the Day
+## 💡 Line of the Life
 
 <div align="center">
 
-```diff
-+ "The best way to predict the future is to implement it."
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=That+man+can+have+nothing+but+what+he+strives+for%3B" alt="Typing SVG" />
+</a>
 
-**— David Heinemeier Hansson**
+**— Surah An-Najm Ayat 39 (53:39 Quran)**
 
 </div>
 
