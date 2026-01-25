@@ -95,15 +95,21 @@
     <td align="center" width="50%">
       $\Large\color{red}{\underline{\textsf{Frontend}}}$
       <br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+      <img src="https://skillicons.dev/icons?i=html" style="margin: 35px;" />
+      <img src="https://skillicons.dev/icons?i=css" style="margin: 35px;" />
+      <img src="https://skillicons.dev/icons?i=js" style="margin: 35px;" />
+      <img src="https://skillicons.dev/icons?i=react" style="margin: 35px;" />
     </td>
     <td align="center" width="50%">
       $\Large\color{red}{\underline{\textsf{Backend}}}$
       <br><br>
-      <img src="https://skillicons.dev/icons?i=python,nodejs,c,cpp" />
+      <img src="https://skillicons.dev/icons?i=python" style="margin: 35px;" />
+      <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 35px;" />
+      <img src="https://skillicons.dev/icons?i=c" style="margin: 35px;" />
+      <img src="https://skillicons.dev/icons?i=cpp" style="margin: 35px;" />
       <br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/500px-Django_logo.svg.png?20101010121142" height="40" alt="Django" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/960px-Flask_logo.svg.png?20120519143422" height="40" alt="Flask" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/500px-Django_logo.svg.png?20101010121142" height="40" alt="Django" style="margin: 35px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/960px-Flask_logo.svg.png?20120519143422" height="40" alt="Flask" style="margin: 35px;" />
     </td>
   </tr>
   <!-- Row 2: Data Science & AI -->
@@ -111,16 +117,16 @@
     <td align="center">
       $\Large\color{red}{\underline{\textsf{Data\ Science}}}$
       <br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="Numpy" style="margin: 35px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas" style="margin: 35px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" style="margin: 35px;" />
     </td>
     <td align="center">
       $\Large\color{red}{\underline{\textsf{AI}}}$
       <br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/1280px-Claude_AI_logo.svg.png?20240803183132" height="40" alt="Claude" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/1280px-Google_Gemini_icon_2025.svg.png?20250728014952" height="40" alt="Gemini" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Perplexity_AI_logo.svg/1280px-Perplexity_AI_logo.svg.png?20230820074314" height="40" alt="Perplexity" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/1280px-Claude_AI_logo.svg.png?20240803183132" height="40" alt="Claude" style="margin: 35px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/1280px-Google_Gemini_icon_2025.svg.png?20250728014952" height="40" alt="Gemini" style="margin: 35px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Perplexity_AI_logo.svg/1280px-Perplexity_AI_logo.svg.png?20230820074314" height="40" alt="Perplexity" style="margin: 35px;" />
     </td>
   </tr>
   <!-- Row 3: API & Database -->
@@ -128,15 +134,15 @@
     <td align="center">
       $\Large\color{red}{\underline{\textsf{API}}}$
       <br><br>
-      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png?20230731013808" height="40" alt="OpenAI" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hf-logo-with-title.svg/1280px-Hf-logo-with-title.svg.png?20240605062617" height="40" alt="Hugging Face" style="margin: 4px;" />
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" style="margin: 35px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png?20230731013808" height="40" alt="OpenAI" style="margin: 35px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hf-logo-with-title.svg/1280px-Hf-logo-with-title.svg.png?20240605062617" height="40" alt="Hugging Face" style="margin: 35px;" />
     </td>
     <td align="center">
       $\Large\color{red}{\underline{\textsf{Database}}}$
       <br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Microsoft_Access_2013-2019_logo.svg/960px-Microsoft_Access_2013-2019_logo.svg.png" height="40" alt="Microsoft Access" style="margin: 4px;" />
-      <img src="https://img.icons8.com/?size=96&id=J6KcaRLsTgpZ&format=png" height="40" alt="SQL" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Microsoft_Access_2013-2019_logo.svg/960px-Microsoft_Access_2013-2019_logo.svg.png" height="40" alt="Microsoft Access" style="margin: 35px;" />
+      <img src="https://img.icons8.com/?size=96&id=J6KcaRLsTgpZ&format=png" height="40" alt="SQL" style="margin: 35px;" />
     </td>
   </tr>
   <!-- Row 4: Tools & Platforms (Full Width) -->
@@ -144,14 +150,16 @@
     <td align="center" colspan="2">
       $\Large\color{red}{\underline{\textsf{Tools\ \&\ Platforms}}}$
       <br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+      <img src="https://skillicons.dev/icons?i=vscode" style="margin: 35px;" />
+      <img src="https://skillicons.dev/icons?i=git" style="margin: 35px;" />
+      <img src="https://skillicons.dev/icons?i=github" style="margin: 35px;" />
       <br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/960px-Microsoft_Excel_2013-2019_logo.svg.png" height="40" alt="Microsoft Excel" style="margin: 4px;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" height="40" alt="Jupyter" style="margin: 4px;" />
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" height="40" alt="Cursor AI" style="margin: 4px;" />
-      <img src="https://pngdownloads.wordpress.com/wp-content/uploads/2025/11/google-antigravity-logo-icon-png.jpg" height="40" alt="Google Antigravity" style="margin: 4px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab" style="margin: 35px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 35px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/960px-Microsoft_Excel_2013-2019_logo.svg.png" height="40" alt="Microsoft Excel" style="margin: 35px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" height="40" alt="Jupyter" style="margin: 35px;" />
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" height="40" alt="Cursor AI" style="margin: 35px;" />
+      <img src="https://pngdownloads.wordpress.com/wp-content/uploads/2025/11/google-antigravity-logo-icon-png.jpg" height="40" alt="Google Antigravity" style="margin: 35px;" />
     </td>
   </tr>
 </table>
