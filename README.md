@@ -21,11 +21,11 @@
             </ul>
           </td>
           <td width="50%">
-            <h3><i><u><font color="red">Web Development</font></u></i></h3>
+            <h3><i><u><font color="red">Software Development</font></u></i></h3>
             <ul>
-              <li>Web App Development</li>
-              <li>Portfolio Builder</li>
-              <li>Small Business Dashboard</li>
+              <li>C# .NET Developemnt</li>
+              <li>Pyhton Development</li>
+              <li>Flutter Android Development</li>
             </ul>
           </td>
         </tr>
@@ -36,14 +36,15 @@
               <li>Generative AI</li>
               <li>Chat Bots</li>
               <li>Business Automation</li>
+              <li>API Integrations</li>
             </ul>
           </td>
           <td>
-            <h3><i><u><font color="red">Python Development</font></u></i></h3>
+            <h3><i><u><font color="red">Backend Specialities</font></u></i></h3>
             <ul>
-              <li>System Development</li>
-              <li>OOP</li>
-              <li>Data-Driven Projects</li>
+              <li>Database Mnagament</li>
+              <li>API Integrations</li>
+              <li>Containarization</li>
             </ul>
           </td>
         </tr>
