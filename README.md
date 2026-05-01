@@ -79,7 +79,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp5MGV5ajVrYjRybnkyam4xczBtZTBpbm8xd29pajhicWM1dHQzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0okL9TJR0QcQezOxza/giphy.gif" alt="Coding GIF" width="100%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNqZ3g1MzI0bHJ1bzVqZzcyZnkxcHV6ZnMxbGliNDJxZzhvcDNpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n3b2DZs0T5IQXkfH7L/giphy.gif" alt="Coding GIF" width="100%">
     </td>
   </tr>
 </table>
