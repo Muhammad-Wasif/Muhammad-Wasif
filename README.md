@@ -79,7 +79,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNqZ3g1MzI0bHJ1bzVqZzcyZnkxcHV6ZnMxbGliNDJxZzhvcDNpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n3b2DZs0T5IQXkfH7L/giphy.gif" alt="Coding GIF" width="100%">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKKt1ALml2F6VfcKuR7lPhsgyuhzkysB6aQ&s" />
     </td>
   </tr>
 </table>
